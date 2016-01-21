@@ -21,6 +21,7 @@ public/*
 logs/*
 media/cache
 cache
+workspace.xml
 
 # Virtualenv
 .env
