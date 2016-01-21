@@ -27,3 +27,4 @@ workspace.xml
 .env
 ENV
 .idea/workspace.xml
+*.xml
